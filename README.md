@@ -48,13 +48,3 @@ git push -u origin main
 4. Optional: add your custom domain under **Project → Settings → Domains**.
 
 CLI alternative: `npm i -g vercel` then `vercel` (preview) and `vercel --prod` (production).
-
-## Research basis
-
-The "Our approach" section draws on leading marriage-focused Muslim platforms, including:
-
-| Platform | Notable for |
-|---|---|
-| Salams | "6M+" members claimed; detailed faith profiles (sect, prayer level), selfie verification |
-
-Figures are each platform's own or press claims, not independently verified.
