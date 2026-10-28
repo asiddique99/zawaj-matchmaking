@@ -51,12 +51,10 @@ CLI alternative: `npm i -g vercel` then `vercel` (preview) and `vercel --prod` (
 
 ## Research basis
 
-The "Our approach" section draws on the three leading marriage-focused Muslim platforms:
+The "Our approach" section draws on leading marriage-focused Muslim platforms, including:
 
 | Platform | Notable for |
 |---|---|
-| Muzz | ~10M members reported; wali/chaperone chat sharing, selfie verification, photo blurring |
-| SingleMuslim.com | Since 2000; ~2M members; manual profile vetting; family can register on someone's behalf |
 | Salams | "6M+" members claimed; detailed faith profiles (sect, prayer level), selfie verification |
 
 Figures are each platform's own or press claims, not independently verified.
